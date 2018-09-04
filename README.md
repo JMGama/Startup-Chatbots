@@ -1,2 +1,2 @@
 # StartupChatbots
-Content used in the Boost your Startup with Chatbots
+Content used in the Boost your Startup with Chatbots presentation.
